@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RssReader</string>
+    <string name="something_went_wrong">Could not complete the action, something went wrong, please try later</string>
+    <string name="invalid_url">Invalid url</string>
+    <string name="no_internet">Please check internet connection</string>
+    <string name="progress_text">Loading... Please wait</string>
+</resources>
